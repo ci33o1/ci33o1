@@ -1,4 +1,4 @@
-- 💻 **OS**: 🪟 Windows 11 Pro + 🐧 WSL (Ubuntu)  
+ 
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-ci3301-red?logo=tryhackme)](https://tryhackme.com/p/ci3301)  
 - ![Discord](https://img.shields.io/badge/Discord-ci3301-5865F2?logo=discord&logoColor=white)
 
